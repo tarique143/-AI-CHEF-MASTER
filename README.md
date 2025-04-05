@@ -36,6 +36,6 @@ This project combines multiple AI-powered features to simplify food-related inte
 - [SpeechRecognition, gTTS, PyTTSx3, OpenCV, Tesseract OCR, PIL] – For voice, image, and document processing
 
 ---
-![Recipe UI](T1.png)
+![Recipe UI](T1.PNG)
 
  
